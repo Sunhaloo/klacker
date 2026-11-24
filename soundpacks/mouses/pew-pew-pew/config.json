@@ -1,0 +1,26 @@
+{
+  "config_version": "2",
+  "name": "Pew",
+  "author": "AZResponding FireBuff",
+  "description": "A custom sound pack created with the Mechvibes editor.",
+  "tags": [],
+  "definition_method": "single",
+  "audio_file": "audio.ogg",
+  "soundpack_type": "Mouse",
+  "options": {
+    "recommended_volume": 1,
+    "random_pitch": false
+  },
+  "definitions": {
+    "MouseLeft": {
+      "timing": [
+        [
+          0,
+          435.8958333333333
+        ]
+      ]
+    }
+  },
+  "id": "mv-715a115f67ac4363be31b86a3a316713",
+  "version": "1"
+}

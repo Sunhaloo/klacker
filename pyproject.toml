@@ -1,0 +1,21 @@
+[project]
+name = "klacker"
+version = "0.0.0"
+description = "Keyboard keypress and mouse click sounds"
+readme = "README.md"
+authors = [
+    { name = "Sunhaloo", email = "azmaan151003@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "dearpygui>=2.3.1",
+    "miniaudio>=1.73",
+    "pynput>=1.8.2",
+]
+
+[project.scripts]
+klacker = "klacker:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"

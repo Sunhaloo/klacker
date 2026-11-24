@@ -1,0 +1,115 @@
+{
+  "config_version": "2",
+  "id": "mv-0875712fabb94a17a732157e5315c31c",
+  "name": "Myilo Mouse Dream Pack",
+  "author": "Myilo",
+  "description": "Mouse Pack for the Keychron Dream Pack",
+  "tags": [
+    "gaming"
+  ],
+  "sound_profiles": [
+    "thocky"
+  ],
+  "source_url": "https://www.youtube.com/shorts/t5Ndb-PGIBQ",
+  "definition_method": "multi",
+  "audio_file": "audio.ogg",
+  "icon": "icon.webp",
+  "soundpack_type": "Mouse",
+  "options": {
+    "recommended_volume": 2,
+    "random_pitch": true
+  },
+  "definitions": {
+    "MouseLeft": {
+      "audio_file": "AudioCleaner_Download_Which-Mouse-got-the-best-cli.ogg",
+      "timing": [
+        [
+          0,
+          161.89583333333334
+        ]
+      ]
+    },
+    "MouseRight": {
+      "audio_file": "AudioCleaner_Download_Which-Mouse-got-the-best-cli.ogg",
+      "timing": [
+        [
+          161.89583333333334,
+          291.8125
+        ]
+      ]
+    },
+    "MouseMiddle": {
+      "audio_file": "AudioCleaner_Download_Which-Mouse-got-the-best-cli.ogg",
+      "timing": [
+        [
+          291.8125,
+          413.75
+        ]
+      ]
+    },
+    "MouseWheelUp": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          801.8125,
+          891.7916666666666
+        ]
+      ]
+    },
+    "MouseWheelDown": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          891.7916666666666,
+          957.7708333333334
+        ]
+      ]
+    },
+    "Mouse5": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          1047.75,
+          1177.7291666666667
+        ]
+      ]
+    },
+    "Mouse4": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          957.7708333333334,
+          1047.75
+        ]
+      ]
+    },
+    "Mouse6": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          1177.7291666666667,
+          1291.7083333333333
+        ]
+      ]
+    },
+    "Mouse7": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          631.8541666666666,
+          801.8125
+        ]
+      ]
+    },
+    "Mouse8": {
+      "audio_file": "audio.ogg",
+      "timing": [
+        [
+          501.875,
+          631.8541666666666
+        ]
+      ]
+    }
+  },
+  "version": "2"
+}

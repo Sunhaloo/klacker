@@ -1,0 +1,36 @@
+{
+  "config_version": "2",
+  "name": "Hayyoth's mouse",
+  "author": "М С",
+  "description": "non official pack, that i ve made of hayyoth's first video https://www.youtube.com/watch?v=WLih6RtW_hE",
+  "tags": [
+    "asmr"
+  ],
+  "definition_method": "single",
+  "audio_file": "audio.ogg",
+  "soundpack_type": "Mouse",
+  "options": {
+    "recommended_volume": 1,
+    "random_pitch": false
+  },
+  "definitions": {
+    "MouseLeft": {
+      "timing": [
+        [
+          0,
+          236.66666666666666
+        ]
+      ]
+    },
+    "MouseRight": {
+      "timing": [
+        [
+          0,
+          236.66666666666666
+        ]
+      ]
+    }
+  },
+  "id": "mv-8766755ac0114af6910846c956403ee4",
+  "version": "1"
+}

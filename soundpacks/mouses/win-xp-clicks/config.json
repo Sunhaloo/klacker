@@ -1,0 +1,45 @@
+{
+  "config_version": "2",
+  "name": "WinXP click",
+  "author": "ALRK “Alka-Seltzer”",
+  "description": "based of the Windows Navigation start sound, pretty simple",
+  "tags": [],
+  "sound_profiles": [
+    "clicky"
+  ],
+  "definition_method": "single",
+  "audio_file": "audio.mp3",
+  "soundpack_type": "Mouse",
+  "options": {
+    "recommended_volume": 1,
+    "random_pitch": false
+  },
+  "definitions": {
+    "MouseLeft": {
+      "timing": [
+        [
+          0,
+          64.036
+        ]
+      ]
+    },
+    "MouseRight": {
+      "timing": [
+        [
+          0,
+          64.036
+        ]
+      ]
+    },
+    "MouseMiddle": {
+      "timing": [
+        [
+          0,
+          64.036
+        ]
+      ]
+    }
+  },
+  "id": "mv-2cb8078d75ff45b3955f81a4aa52ce4c",
+  "version": "2"
+}
