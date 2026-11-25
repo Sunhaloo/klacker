@@ -2,6 +2,7 @@
   "config_version": "2",
   "name": "Hayyoth's mouse",
   "author": "М С",
+  "source_url": "https://www.youtube.com/watch?v=WLih6RtW_hE",
   "definition_method": "single",
   "audio_file": "audio.ogg",
   "options": {
